@@ -10,3 +10,6 @@
 #
 # Voorbeelduitvoer:
 # De totale prijs bedraagt 31.65 euro.
+
+Persoon = int(input("hoeveel mensen"))
+print("het kost in totaal, per persoon 20.50 euro dus het kost nu", Persoon*20.50)
